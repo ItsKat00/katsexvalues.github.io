@@ -12,9 +12,9 @@
 
     axisArrays = {
             "attract": ["Feminine","Feminine-leaning","Neutral","Masculine-leaning","Masculine"],
-            "drive": ["Hyposexual", "Low", "Medium", "High", "Hypersexual"],
-            "dominant": ["Submissive and Breedable", "Switch", "Dominant"],
-            "deviance": ["Puritarian","Vanilla","Balanced","Kinky","Deviant"],
+            "drive": ["Hyposexual", "Low", "Medium", "Horny mf", "Horny af mf"],
+            "dominant": ["Submissive and Breedable", "Switch", "DommyMommy"],
+            "deviance": ["Puritarian 🥺","Vanilla","Balanced","Kinky","Deviant"],
             "affect": ["Hedonist","Open","Neutral","Affective","Exclusive"]
     };
 
